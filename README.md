@@ -1,2 +1,4 @@
-# rhdm7-loan-demo-repo
-mortgage-deom
+Repository Init Content
+=======================
+
+BPMS 6 Example App
